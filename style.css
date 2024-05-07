@@ -3,6 +3,10 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background: url("assets/background1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
 }
 #quote {
 	display: grid;

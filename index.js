@@ -65,9 +65,7 @@ function setBackground() {
 	body.style.backgroundPosition = "center";
 	body.style.backgroundRepeat = "no-repeat";
 }
-
 setBackground();
-
 //Set notifification sound
 
 function notifyUser() {
