@@ -1,0 +1,18 @@
+{
+	"manifest_version": 3,
+	"version": "1.0",
+	"name": "Pomodoro timer",
+	"description": "This app keeps you focused and times your Pomodoro sessions",
+	"action": {
+		"default_icon": {
+			"16": "16x16px.png",
+			"19": "19x19px.png",
+			"48": "48x48px.png",
+			"128": "128x128px.png"
+		},
+		"default_popup": "index.html",
+		"background": {
+			"persistent": true
+		}
+	}
+}
